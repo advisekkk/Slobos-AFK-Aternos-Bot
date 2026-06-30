@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KoperkowaOsada.aternos.me,
+    "ip": "KoperkowaOsada.aternos.me",
     "port": 12609,
     "version": "",
     "try-creative": false
